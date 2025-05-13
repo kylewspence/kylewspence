@@ -20,7 +20,6 @@ Check out some of my recent work:
 
 - **FinSight** – AI-powered portfolio insights for real estate & investments  
 - **AI Flashcard Generator** – Smart study tool using OpenAI to generate flashcards  
-- **Code Journal** – Developer journal with full CRUD backend and clean UI  
 
 ---
 
