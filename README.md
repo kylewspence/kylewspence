@@ -9,7 +9,7 @@ These days, I’m passionate about building clean, intuitive apps that solve rea
 ## 🧰 Tech Stack
 
 - **Languages & Frameworks:** TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, HTML/CSS  
-- **Tools & Platforms:** Vite, Tailwind, Git, GitHub, Postman, VSCode  
+- **Tools & Platforms:** Vite, Tailwind, Git, GitHub, VSCode, Cursor  
 - **Learning & Exploring:** AI integration (OpenAI API), data visualization, Python  
 
 ---
